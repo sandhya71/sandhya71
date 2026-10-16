@@ -1,38 +1,130 @@
-# Hello World I'm SANDHYA a Data Engineer🫶🏻! 
+[SK.](#hero)
 
-![image](https://github.com/user-attachments/assets/6273aadb-097f-4e22-9497-d5c0a9155782)
+[About](#about) [Experience](#experience) [Projects](#projects) [Stack](#stack) [Contact](#contact)
 
-# 💫 About Me:
-"I'm currently thriving in my role as a data engineering professional, where I get to design and build robust data pipelines that empower organizations to make data-driven decisions. I’m passionate about leveraging the latest technologies and methodologies, such as cloud computing and machine learning, to optimize data workflows. It’s incredibly rewarding to tackle complex challenges and see the tangible impact of my work on business outcomes. 
+Data Engineer · Bangalore
 
+# Building data infrastructure that *scales.*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhyakapse/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sandhyakapse17) 
+I design and ship **petabyte-scale data pipelines and AI-native platforms** on Azure — from raw ingestion through curated semantic models to agentic AI products. 3.5 years across Microsoft, fintech, and consulting. Currently at Tredence.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhya71/Githubread/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandhya71/Githubread/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+[See my work](#projects) [Get in touch](mailto:sandhyakapse17@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandhya71&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandhya71&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya71&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+0
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandhya71&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
+Professional data\
+engineering experience
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+0
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sandhya71&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Snowflake query\
+runtime reduced
 
----
+0
 
-[![](https://visitcount.itsvg.in/api?id=sandhya71&icon=0&color=0)](https://visitcount.itsvg.in)
+AutoFX propensity\
+model accuracy
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+0
+
+ADF connectors owned\
+in production
+
+About
+
+I think in systems,\
+build for reliability.
+
+I'm a Data Engineer specialising in **Azure-native data infrastructure** — from ingestion through ADF and ADLS Gen2, through transformation in Databricks and Synapse, to curated semantic models powering dashboards and AI agents.
+
+At **Tredence**, I architected the AutoFX intelligent payment platform for a global bank — a six-checkpoint ML pipeline processing live FX payment events, with SHAP-driven explainability surfaced in a real-time advisor dashboard. At **Microsoft**, I owned enterprise data ingestion for global clients and directly influenced ADF platform fixes shipped worldwide.
+
+I care about the last mile as much as the first. The data that reaches an AI agent or an executive dashboard should be as clean and trustworthy as the raw source was messy. **Data governance, lineage, and quality** are engineering decisions, not afterthoughts.
+
+Proficiency
+
+Azure Data Factory & Fabric95%
+
+SQL & Data Modelling92%
+
+PySpark / Databricks88%
+
+Python84%
+
+Snowflake / Delta Lake86%
+
+Azure AI Foundry / Agents74%
+
+Data Governance & Lineage80%
+
+Experience
+
+Where I've built
+
+Jul 2026 — Present
+
+Data Engineer
+
+Tredence · Bangalore
+
+- Architected the **AutoFX AI data platform** — petabyte-scale Medallion pipelines (staging → canonical → curated) processing live multi-currency payment events via Azure Fabric OneLake and ADLS Gen2.
+- Built a **six-checkpoint propensity model pipeline** (validation → currency check → feature retrieval → model → decision rules → AutoFX decision) achieving 86% accuracy — enabling straight-through FX conversion.
+- Designed **curated semantic and logical data models** across six feature domains, powering NL2SQL / NL2DAX agent queries via Azure AI Foundry and Copilot Studio.
+- Delivered a **real-time advisor dashboard** with SHAP explainability — surfacing propensity scores and confidence signals per payment, directly driving executive decision-making and STP rate uplift.
+- Enforced data governance via **RBAC, lineage tracking, audit logging, and schema validation** across all pipeline layers.
+
+Mar 2025 — Jun 2026 · 1 yr 4 months
+
+Support Engineer
+
+Microsoft (via Aptly Professionals) · Bangalore
+
+- Owned production reliability for enterprise data ingestion (SAP ERP, REST APIs, SFTP, Fabric Lakehouses via ADF) serving global business-critical Microsoft clients.
+- Configured **10+ ADF connectors** — SAP, Snowflake, SQL Server, Fabric, SFTP, ADLS, Blob, Databricks — and resolved high-severity incidents via deep ADF telemetry analysis.
+- Identified ADF product bugs and drove **platform fixes shipped globally** to enterprise customers worldwide.
+
+Sep 2024 — Mar 2025 · 7 months
+
+Data Engineer
+
+CoffeeBeans Consulting · Bangalore
+
+- Reduced Snowflake query runtime **35%** by re-architecting REST API ingestion of live eCommerce events via partition pruning, index tuning, and SQL restructuring.
+- Delivered **20% executive dashboard performance gain** building PySpark Medallion transforms (Bronze → Silver → Gold) in Databricks on high-volume JSON event streams.
+
+Jan 2022 — Jun 2023 · 1.5 years
+
+Data Engineer
+
+ITC Infotech · Bangalore
+
+- Led cloud database migration from SQL Server and PostgreSQL to Snowflake and Azure Data Lake — designed strategy, resolved schema conflicts, reduced reporting latency.
+- Built CI/CD for all data transformation releases via Azure DevOps — zero-regression deployments across dev, UAT, and production.
+
+Engineering work
+
+What I've shipped
+
+[↗ ● Production · Fintech AutoFX — Intelligent Payment Platform Architected an end-to-end AI data platform for a global bank. Designed petabyte-scale Medallion pipelines processing live FX payment events — from raw ingestion through a six-checkpoint ML pipeline to a real-time advisor dashboard with SHAP-driven explainability. The platform enabled straight-through FX conversion, eliminating advisor intervention on qualified payments. Azure Fabric OneLakeADLS Gen2 DatabricksAzure AI Foundry Copilot StudioPySpark Feature StoreSHAP **86%** model accuracy **6** pipeline checkpoints **Real-time** advisor dashboard](https://github.com/sandhya71) [↗ ● Architecture · Azure + AWS Payment Analytics Data Pipeline Idempotent Spark pipeline processing simulated payment transaction data — ingestion, deduplication, schema validation, and aggregated metrics (revenue, conversion, STP rate). Designed for exactly-once delivery and late-arriving data handling. Demonstrates financial data engineering patterns directly applicable to Stripe, Intuit, and PayU-scale systems. PySparkAWS S3 AWS LambdaSnowflake Delta LakePython **Idempotent** design **Exactly-once** delivery **Late data** handled](https://github.com/sandhya71) [↗ ● Open source · Azure Real-Time Sports Analytics Platform REST API ingestion into ADF feeding a Databricks Medallion architecture (Bronze → Silver → Gold) with Delta Lake storage. Demonstrates multi-source ingestion, PySpark transformation patterns, schema evolution handling, and data quality checks on event-driven sports performance data. Azure Data FactoryDatabricks PySparkDelta Lake ADLS Gen2Medallion **3-layer** Medallion **Schema** evolution **Data quality** checks](https://github.com/sandhya71/Olympic_Transformation) [↗ ● Open source · Cross-cloud Cross-Cloud Streaming Pipeline Event-driven streaming architecture spanning Azure and AWS. Twitter Streaming API → AWS Lambda (event trigger) → AWS S3 (data lake) → Elasticsearch (analytics). Demonstrates multi-cloud ingestion, serverless event handling, and near-real-time analytics — patterns applicable to any high-throughput streaming domain. AWS LambdaAWS S3 ElasticsearchPython Event-drivenNear-real-time **Cross-cloud** architecture **Serverless** triggers **Real-time** analytics](https://github.com/sandhya71/Twitter_Data_Pipeline/)
+
+Thinking
+
+How I approach the work
+
+[Data Architecture Why I always start with the Gold layer How working backwards from the business question shapes better Medallion architecture decisions — and why Bronze/Silver aren't just staging areas.](https://medium.com/@sandhyakapse17) [Performance Engineering 35% faster: what actually fixed the Snowflake query The three changes that cut query runtime by a third — partition pruning, index tuning, and a SQL restructure that wasn't obvious until we read the execution plan.](https://medium.com/@sandhyakapse17) [Data Quality Data governance isn't a checklist How RBAC, lineage tracking, audit telemetry, and schema validation became engineering decisions at the design stage — not compliance tasks after launch.](https://medium.com/@sandhyakapse17)
+
+Tech Stack
+
+What I build with
+
+Azure Data FactoryAzure Databricks Microsoft FabricADLS Gen2 Azure SynapseAzure AI Foundry Copilot StudioMCP Endpoints FastAPIPySpark PythonSQL · Spark SQL SnowflakeDelta Lake Medallion Architecturedbt (learning) Airflow (familiar)AWS S3 · Lambda Amazon RedshiftElasticsearch REST API IngestionCDC Feature StoresSHAP Explainability CI/CD · Azure DevOpsData Governance RBAC · Data LineageAudit Telemetry
+
+## Open to the right opportunity.
+
+Looking for senior data engineering roles, data platform architecture, and AI-native data product opportunities. Based in Bangalore — open to hybrid and remote.
+
+[sandhyakapse17@gmail.com](mailto:sandhyakapse17@gmail.com)
+
+[in LinkedIn linkedin.com/in/sandhya-kapse](https://www.linkedin.com/in/sandhya-kapse-086207146/) [gh GitHub github.com/sandhya71](https://github.com/sandhya71) [M Medium @sandhyakapse17](https://medium.com/@sandhyakapse17) [HR HackerRank sandhyakapse17](https://www.hackerrank.com/profile/sandhyakapse17)
+
+© 2026 Sandhya Kapse Data Engineer · Bangalore
