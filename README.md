@@ -1,102 +1,104 @@
+github.com/sandhya71
 
-<h1 align="center">Hi 👋, I'm Sandhya Kapse</h1>
-<h3 align="center">Data & AI Engineer · Azure · Snowflake · Airflow · RAG · Responsible AI</h3>
+# Sandhya Kapse.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7490&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer+%7C+~4+Years+Experience;Building+LLM+Pipelines+%26+RAG+Agents;Azure+Fabric+%7C+Snowflake+%7C+Apache+Airflow;Responsible+AI+%7C+SHAP+%7C+DataOps" alt="Typing SVG" />
-</p>
+Data & AI Engineer · Bangalore, India
 
----
+I build **production-grade data pipelines and AI agents** that process tens of millions of events a day. Currently engineering the AutoFX intelligent payment platform at Tredence — **Medallion pipelines**, **LLM-grounded RAG agents**, and **SHAP-driven Responsible AI** dashboards on Azure. Former Microsoft. Obsessive about DataOps, observability, and systems that don't break at 3am.
 
-## 📊 By the Numbers
+[linkedin.com/in/sandhyakapse](https://linkedin.com/in/sandhyakapse) [sandhyakapse17@gmail.com](mailto:sandhyakapse17@gmail.com) Open to opportunities
 
-| 50M+ | 86% | 35% | 99.9% |
-|:---:|:---:|:---:|:---:|
-| Daily Events Processed | ML Pipeline Accuracy | Query Runtime Reduced | Pipeline SLA Uptime |
+50M+
 
----
+Events\
+per day
 
-## 🧠 About Me
+86%
 
-- 🔭 Working on **AutoFX** — AI-powered FX payment platform processing 50M+ events/day
-- 🤖 Building **RAG agents** with Azure AI Foundry + SHAP Responsible AI dashboards
-- 🌱 Pursuing **DP-700** Microsoft Fabric Data Engineer Associate
-- ⚡ AI-first engineer using **Claude Code + GitHub Copilot** daily in production workflows
-- 💬 Ask me about **Airflow · Snowflake · LLM pipelines · Responsible AI · DataOps**
-- 📫 Reach me at **sandhyakapse17@gmail.com**
+ML pipeline\
+accuracy
 
----
+35%
 
-## 🛠️ Tech Stack
+Query runtime\
+reduction
 
-**Azure Data & AI**
-`Azure Fabric` `Azure Data Factory` `Databricks` `Synapse Analytics` `ADLS Gen2` `Azure AI Foundry` `Azure OpenAI` `AI Search` `Copilot Studio`
+\~4 yrs
 
-**Languages & Orchestration**
-`Python` `PySpark` `SQL` `Spark SQL` `Apache Airflow` `FastAPI` `MCP Endpoints` `SSIS` `Kafka`
+Data & AI\
+engineering
 
-**AI / LLM / GenAI**
-`RAG / Grounding` `Prompt Engineering` `LangChain` `LangGraph` `SHAP Explainability` `Responsible AI` `NLP` `Document Intelligence`
+Stack
 
-**Data Platforms**
-`Snowflake` `Delta Lake` `Medallion Architecture` `Dimensional Modelling` `SCD Type 2` `CDC`
+Azure / Cloud
 
-**Governance & DevOps**
-`DataOps` `CI/CD (Azure DevOps)` `RBAC` `Data Lineage` `Audit Telemetry` `Agile` `Observability`
+Azure Fabric ADF Databricks Synapse ADLS Gen2 AI Foundry Azure OpenAI AI Search Copilot Studio
 
----
+AI / LLM
 
-## 🚀 Featured Projects
+RAG LLM Integration LangChain LangGraph Prompt Engineering SHAP Responsible AI NLP Doc Intelligence
 
-### ⚡ AutoFX Intelligent Payment Platform *(Enterprise · Tredence)*
-> Petabyte-scale Medallion pipeline + 6-checkpoint ML model (86% accuracy) + RAG agents via Azure AI Foundry + SHAP-driven Responsible AI dashboard for a global bank. Processes **50M+ FX payment events/day**.
+Languages
 
-`Azure Fabric` `ADF` `LLMs` `RAG` `SHAP` `Responsible AI` `Airflow` `Python`
+Python PySpark SQL Spark SQL FastAPI MCP Endpoints
 
----
+Orchestration
 
-### 🐦 Cross-Cloud Streaming Pipeline · [View Repo](https://github.com/sandhya71/Twitter_Data_Pipeline)
-> Real-time Twitter Streaming API → AWS Lambda → S3 → Elasticsearch. Cross-cloud event-driven architecture with automated failure recovery.
+Apache Airflow Databricks Jobs Kafka SSIS
 
-`Python` `AWS Lambda` `S3` `Elasticsearch` `Streaming`
+Platforms
 
----
+Snowflake Delta Lake Medallion Arch. SCD Type 2 CDC Dimensional Modelling
 
-### 🏅 Olympic Data Transformation · [View Repo](https://github.com/sandhya71/Olympic_Transformation)
-> Raw Olympic CSVs → Azure Data Factory ingestion → ADLS Gen2 → Databricks PySpark transforms → curated analytics layer.
+DataOps
 
-`ADF` `ADLS Gen2` `Databricks` `PySpark` `Delta Lake`
+CI/CD · Azure DevOps RBAC Data Lineage Observability Audit Telemetry Git
 
----
+Projects
 
-### 🔜 FinSight AI Agent *(Coming Soon)*
-> LLM-powered financial data analyst — natural language → Snowflake SQL → real-time insight cards with Responsible AI guardrails and SHAP explanations.
+AutoFX Intelligent Payment Platform
 
-`LangGraph` `Snowflake` `Python` `Responsible AI` `Prompt Engineering`
+Petabyte-scale Medallion pipeline processing 50M+ daily FX payment events for a global bank. Six-checkpoint ML propensity model (86% accuracy), RAG-grounded AI agents via Azure AI Foundry, and SHAP-driven Responsible AI advisor dashboard. Built on Microsoft Fabric OneLake with full DataOps · CI/CD · RBAC governance.
 
----
+Azure Fabric LLMs RAG SHAP PySpark Responsible AI Airflow
 
-## 📌 Currently
+Enterprise · Tredence
 
-- 🏗️ Building **AutoFX** — 50M+ FX payment events/day with ML + AI agents at Tredence
-- 📚 Studying for **DP-700** Microsoft Fabric Data Engineer Associate
-- 🔬 Exploring **LangGraph** for multi-agent orchestration in financial data workflows
-- ✍️ Writing about **Responsible AI** in production data pipelines
+2026 – present
 
----
+[PipelineGuardian ↗ LangChain agent hooked into Airflow's REST API + Snowflake. On DAG failure: auto-collects error logs, run history, upstream status, row-count deltas — generates a structured RCA to Slack in \<60s with a fix recommendation and confidence score. LangChain Airflow Snowflake GPT-4o Slack Bot](https://github.com/sandhya71) [FinSight AI ↗ Conversational financial analyst: natural language → validated Snowflake SQL → SHAP-grounded insight card. LangGraph multi-agent system with hallucination detection, PII guardrails, and full query audit logging. LangGraph Snowflake NL2SQL SHAP Responsible AI](https://github.com/sandhya71) [Cross-Cloud Streaming Pipeline ↗ Twitter Streaming API → AWS Lambda → S3 → Elasticsearch. Real-time, cross-cloud, event-driven architecture with automated failure recovery and dead-letter queuing. Python AWS Lambda S3 Elasticsearch](https://github.com/sandhya71/Twitter_Data_Pipeline) [Olympic Data Transformation ↗ Raw Olympic CSVs → Azure Data Factory ingestion → ADLS Gen2 → Databricks PySpark Medallion transforms → curated gold analytics layer with dimensional model. ADF Databricks PySpark Delta Lake](https://github.com/sandhya71/Olympic_Transformation)
 
-## 🤝 Let's Connect
+DataPulse — Retail Intelligence Agent
 
-<p align="left">
-<a href="https://linkedin.com/in/sandhyakapse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sandhyakapse17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sandhya71"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+Soon
 
----
+Streaming retail pipeline (Kafka → Azure Fabric) + Airflow anomaly detection + RAG alert agent that surfaces stock-out predictions with root cause and reorder action in 15 minutes — not 24hrs.
 
-<p align="center"><i>"Data is the new oil — but refined data + AI is jet fuel."</i></p>
+Kafka Azure Fabric RAG Airflow
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandhya71&label=Profile+Views&color=0E7490&style=flat" alt="profile views"/>
-</p>
+Currently
+
+Now
+
+Engineering **AutoFX** at Tredence — 50M+ FX events/day, ML pipeline, RAG agents, Responsible AI
+
+Active
+
+Studying for **DP-700** Microsoft Fabric Data Engineer Associate
+
+Building
+
+PipelineGuardian — **LangChain + Airflow RCA agent** that generates incident reports in \<60s
+
+Exploring
+
+**LangGraph** multi-agent orchestration for financial data analyst workflows
+
+Reading
+
+Designing Data-Intensive Applications · Anthropic's Responsible AI framework
+
+Sandhya Kapse · Bangalore, India\
+sandhyakapse17@gmail.com
+
+"Build systems that don't need you awake at 3am."
